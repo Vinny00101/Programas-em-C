@@ -2,9 +2,9 @@
 
 int main(){
     int M, N, X, i, j, validade;
-    printf("Informe o quantas linhas\n");
+    printf("Informe quantas linhas\n");
     scanf(" %d",&M);
-    printf("Informe o quantas linhas\n");
+    printf("Informe quantas linhas\n");
     scanf(" %d",&N);
     int mat[M][N];
     printf("Informe os elementos do vetor\n");
